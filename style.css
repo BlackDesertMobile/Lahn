@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+}
+body {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.template {
+  width: 95%;
+  border: 1px solid black;
+}
+.name {
+  display: flex;
+  justify-content: center;
+  font-size: 2vw;
+}
+.main_img_template {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.main_img {
+  width: 100%;
+  max-width: 1620px;
+}
+.auto_skill {
+  width: 100%;
+}
+.box_template {
+  /* border: 5px solid black; */
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.box {
+  /* border: 5px solid blue; */
+  width: 40%;
+  max-width: 350px;
+  margin: 10px;
+}
