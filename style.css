@@ -8,7 +8,6 @@ body {
 }
 .template {
   width: 95%;
-  border: 1px solid black;
 }
 .name {
   display: flex;
@@ -28,14 +27,12 @@ body {
   width: 100%;
 }
 .box_template {
-  /* border: 5px solid black; */
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 .box {
-  /* border: 5px solid blue; */
   width: 40%;
   max-width: 350px;
   margin: 10px;
